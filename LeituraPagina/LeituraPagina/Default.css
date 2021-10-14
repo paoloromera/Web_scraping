@@ -1,0 +1,29 @@
+﻿#header, #grid_title, #chart_title {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+
+#grid_title, #chart_title {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    object-fit: contain;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.container-carousel {
+    background-color: #111010;
+}
+
+.chartCanvas{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
